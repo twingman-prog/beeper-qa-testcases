@@ -1,0 +1,16 @@
+# Beeper QA Test Cases
+
+This repository contains manual test cases created by **Fahad Rehman**  
+for functional and regression testing of the Beeper chat application  
+across Android, iOS, and Desktop platforms.
+
+---
+
+## 📂 Structure
+- **/login** – Authentication-related test cases  
+- **/messaging** – Messaging features test cases  
+- **/notifications** – Notification & badge behavior test cases
+
+---
+
+## 📧
