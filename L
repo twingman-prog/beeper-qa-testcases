@@ -1,0 +1,9 @@
+# TC_Login_Valid
+**Preconditions:** User has valid credentials.  
+**Steps:**
+1. Launch Beeper.
+2. Enter valid email/password.
+3. Click "Login".
+**Expected:** User is taken to main dashboard.  
+**Actual:** As expected.  
+**Status:** Pass
