@@ -1,0 +1,13 @@
+# TC_Attachment_Upload_Failure
+
+**Test Area:** Messaging / File Upload  
+**Preconditions:** User is logged in, poor internet connection  
+
+### Steps
+1. Try to send a 10MB video file
+2. Disconnect internet mid-upload
+3. Observe behavior
+
+**Expected Result:** Upload stops and shows error "Upload failed"  
+**Actual Result:** Upload stuck at 50% with no error  
+**Status:** Fail
